@@ -1,6 +1,16 @@
 # Koch-curve
 > A recursive algorithm to draw Koch's curve
 
+## Table of Contents
+* [General Information](#general-information)
+* [Technologies Used](#technologies-used)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Launch and Editing](#launch-and-editing)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Contact](#contact)
+
 ## General Information
 An algorithm that draws Koch's curve using recursion. There is literally nothing more to it other than that. It simply makes for a fun side project that even uses a bit of math knowledge!
 
@@ -9,7 +19,7 @@ An algorithm that draws Koch's curve using recursion. There is literally nothing
 - Pygame 2.0
 
 ## Screenshots
-
+[screenshot_1](./img/koch_curve_img.jpg)
 
 ## Setup
 - First you need to have Python installed, at least version 3.6
