@@ -9,7 +9,6 @@
 * [Launch and Editing](#launch-and-editing)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Contact](#contact)
 
 ## General Information
 An algorithm that draws Koch's curve using recursion. There is literally nothing more to it other than that. It simply makes for a fun side project that even uses a bit of math knowledge!
@@ -41,8 +40,3 @@ There are few things that could be done better and it mostly involves the algori
 - Less repetetive way of recursively calling algorithm, a loop maybe
 - It should start with a straight line rather than a triangle on a line already
 - Maybe logic calculating the angles at which lines should be drawn could be optimized slightly
-
-## Contact
-Created by s25429 AKA [ThatHoracy](https://github.com/ThatHoracy), but currently posted on an account using school email (this one!)
-- Email: cezary.cislak@gmail.com
-- LinkedIn: [profile page](https://www.linkedin.com/in/cezary-ci%C5%9Blak-913559237/)
